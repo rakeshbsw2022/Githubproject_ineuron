@@ -14,3 +14,4 @@ elif (Area_1 == Area_2):
     print(f"Circle_1  and Circle_2 area are equal and their area is {Area_1 or Area_1}")
 else:
     print(f"Circle_2 area is greater and its area is {Area_2}") 
+print("New Circle")
