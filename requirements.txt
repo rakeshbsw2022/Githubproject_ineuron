@@ -6,3 +6,4 @@ pandas profiling
 Scipy
 SQL
 mongodb
+mysql
