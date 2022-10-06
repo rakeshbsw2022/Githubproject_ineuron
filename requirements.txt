@@ -7,3 +7,4 @@ Scipy
 SQL
 mongodb
 mysql
+NLTK
