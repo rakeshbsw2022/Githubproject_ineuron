@@ -2,3 +2,4 @@ Numpy
 Pandas
 Scikit-learn
 Tensorflow
+Pytorch
