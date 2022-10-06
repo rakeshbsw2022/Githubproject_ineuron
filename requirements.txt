@@ -2,3 +2,7 @@ Numpy
 Pandas
 Scikit-learn
 Tensorflow
+pandas profiling
+Scipy
+SQL
+mongodb
